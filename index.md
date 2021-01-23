@@ -13,14 +13,14 @@
 
 ---
 [Project 3](http://example.com/)
-<img src="images/legends of boco bw.jpg"/>
+
 
 ---
 
 ### Personal Projects
 
 - [Comany Achievement]<img src="images/legends of boco bw.jpg"/>
-- [Project 2 Title](http://example.com/)
+- [Project 2](http://example.com/)
 
 
 ---
