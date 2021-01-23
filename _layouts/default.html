@@ -19,9 +19,11 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        {% if site.resume %}
+          <<img src="{{site.resume | README.md}}" alt=:Resume" />
+        {% endit %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <img src="{{README.md}}">
+          
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
