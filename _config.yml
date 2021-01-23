@@ -1,13 +1,13 @@
 title: Nick Milliken # your name (or website title) here
 logo: "Nick Wedding Speech.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate Student at the University of Colorado Boulder persuing an MSBA on the Security Track.
   <br><br>
-  Second description 
+  Sole Owner at Vision Quest Martial Arts
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
- <a href= "README.md" a>
+  <br><br>
+ resume: <a href= "README.md" a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
