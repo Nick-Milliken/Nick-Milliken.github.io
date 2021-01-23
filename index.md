@@ -5,7 +5,7 @@
 ### Grad School Coursework 
 
 [Project 1](/Landing Page)
-<img src=/>
+
 
 ---
 [Project 2](Projects)
