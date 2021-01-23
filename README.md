@@ -45,7 +45,7 @@ See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-
 ___
 
 ### Resume
-
+<https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx>
 ### References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
