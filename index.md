@@ -5,7 +5,7 @@
 ### Grad School Coursework 
 
 [Project 1](/Landing Page)
-<img src="images/family_photo.jpg"/>
+<img src=/>
 
 ---
 [Project 2](Projects)
@@ -19,11 +19,9 @@
 
 ### Personal Projects
 
-- [Project 1 Title](http://example.com/)
+- [Comany Achievement]<img src="images/legends of boco bw.jpg"/>
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
