@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1
+### Grad School Coursework 
 
-[Project 1 Title](/Landing Page)
+[Project 1](/Landing Page)
 <img src="images/family_photo.jpg"/>
 
 ---
-[Project 2 Title](Projects)
+[Project 2](Projects)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3](http://example.com/)
 <img src="images/legends of boco bw.jpg"/>
 
 ---
 
-### Category Name 2
+### Personal Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
