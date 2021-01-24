@@ -44,7 +44,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
 ___
 
-### Resume
+# Resume
 <https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx>
 ### References
 
