@@ -4,8 +4,8 @@
 
 ### Grad School Coursework 
 
-[Project 1]
-
+[Resume]
+"<https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx>" 
 
 ---
 [Project 2](Projects)
