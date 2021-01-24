@@ -4,7 +4,7 @@
 
 ### Grad School Coursework 
 
-[Project 1](/Landing Page)
+[Project 1]
 
 
 ---
