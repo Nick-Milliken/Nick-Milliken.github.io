@@ -1,5 +1,5 @@
 title: "Nick Milliken" # your name (or website title) here
-logo: "Nick Wedding Speech.jpg" # your photo (or logo) here
+logo: < image= "Nick Wedding Speech.jpg" > # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   "Graduate Student at the University of Colorado Boulder persuing an MSBA on the Security Track."
   <br><br>
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <br><br>
- resume: <a href="<https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx>
+ resume: <a href="https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx" a>
 " a>
 livereload: BOOL
 
