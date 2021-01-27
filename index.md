@@ -4,15 +4,14 @@
 
 ### Grad School Coursework 
 
-[Resume]
-<"<https://github.com/Nick-Milliken/Nick-Milliken.github.io/blob/master/pdf/Nick%20Milliken%20-%20Resume%20-%208.22.2020%20PDF.docx>">
+[Class Projects 1]()
 
 ---
-[Project 2](Projects)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Class Projects 2]()
+<img src=""/>
 
 ---
-[Project 3](http://example.com/)
+[Class Projects 3]()
 
 
 ---
@@ -20,7 +19,10 @@
 ### Personal Projects
 
 - [Comany Achievement]<img src="images/legends of boco bw.jpg"/>
-- [Project 2](http://example.com/)
+<br><br>
+- "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
+<br><br>
+- [Vision Quest Martial Arst](https://vqmartialarts.com/)
 
 
 ---
