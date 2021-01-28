@@ -4,9 +4,9 @@
 
 ### Grad School Coursework 
 
-[Class Projects 1]
+[Tableau Gallery]
 <br><br>
-<img src="images/SQL LAB 8.4.twbx"/>
+(https://public.tableau.com/profile/nick8552#!/) 
 <br><br>
 
 
