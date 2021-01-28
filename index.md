@@ -11,7 +11,8 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 
 
 ---
-[SQL Example](<img src="SQL example for github.docx"/>)
+[SQL Example]
+<img src="SQL_for_github.jpg?raw=true">
 <br><br>
 Problem: Working on nested select statements to derive how many 'Alpha Cognac' orders are above average.
 <br><br>
