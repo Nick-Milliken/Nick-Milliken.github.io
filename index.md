@@ -4,9 +4,9 @@
 
 ### Grad School Coursework 
 
-[Tableau Gallery]
+[Tableau Gallery](https://public.tableau.com/profile/nick8552#!/)
 <br><br>
-(https://public.tableau.com/profile/nick8552#!/) 
+A list of Tableau projects from coursework and group projects. Trying out different chart types and filters to see what makes a good visualization or not. Learning from my mistakes and successful attempts. 
 <br><br>
 
 
@@ -22,7 +22,7 @@
 
 ### Personal Projects
 
-- [Comany Achievement]<img src="images/legends of boco bw.jpg"/>
+- [Company Achievement]<img src="images/legends of boco bw.jpg"/>
 <br><br>
 - "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
 <br><br>
