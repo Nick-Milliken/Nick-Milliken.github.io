@@ -4,7 +4,9 @@
 
 ### Grad School Coursework 
 
-[Class Projects 1]<img src="SQL LAB 8.4.twbx"/>
+[Class Projects 1]
+<br><br>
+<img src="images/SQL LAB 8.4.twbx"/>
 <br><br>
 
 
