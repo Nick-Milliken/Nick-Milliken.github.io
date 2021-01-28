@@ -11,11 +11,16 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 
 
 ---
-[Class Projects 2]()
-<img src=""/>
-
+[SQL Example](<img src="SQL example for github.docx"/>)
+<br><br>
+Problem: Working on nested select statements to derive how many 'Alpha Cognac' orders are above average.
+<br><br>
+Findings: Working with nested select statements is a great way to sub-query. We found which customers were buying more than the average amount of 'Alpha Cognac'. 
+<br><br>
+Decisions: Profile the customers who are buying more than average amounts of 'Alpha Cognac' and see if there are correlations to season or holiday and if there are any factors we can replicate to increase 'Alpha Cognac' sales in other regions. 
 ---
-[Class Projects 3]()
+[Python Example]()
+<br><br> 
 
 
 ---
