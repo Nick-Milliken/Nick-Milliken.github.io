@@ -25,7 +25,10 @@ Decisions: Profile the customers who are buying more than average amounts of 'Al
 <br><br> 
 <img src="/images/github_example.ipynb"/>
 <br><br>
-
+Problem: Are there features from the data that can accurately predict if the value of a house will go up or down? 
+Model: We were able to create a model that utilized the different features from the data to identify a change in valuation. 
+Result: Most of the features did not return significant results and were unreliable. There were a couple of features that produced well enough to prove proof of concept but further work needs to be done. An ML model with training and test data would be preferred. Please utilize the link to look at the code. 
+<br><br>
 ---
 
 ### Personal Projects
