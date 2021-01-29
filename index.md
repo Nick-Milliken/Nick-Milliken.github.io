@@ -23,7 +23,8 @@ Decisions: Profile the customers who are buying more than average amounts of 'Al
 ---
 [Python Example](http://localhost:8888/notebooks/Documents/Python_work/github_example.ipynb)
 <br><br> 
-
+<img src="/images/github_example.ipynb"/>
+<br><br>
 
 ---
 
