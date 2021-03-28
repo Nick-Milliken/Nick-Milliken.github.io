@@ -21,7 +21,7 @@ Findings: Working with nested select statements is a great way to sub-query. We 
 <br><br>
 Decisions: Profile the customers who are buying more than average amounts of 'Alpha Cognac' and see if there are correlations to season or holiday and if there are any factors we can replicate to increase 'Alpha Cognac' sales in other regions. 
 ---
-[Python Example](http://localhost:8888/notebooks/Documents/Python_work/github_example.ipynb)
+[Python Example](C:Users/nmill/onedrive/Documents/Python_work/github_example.ipynb)
 <br><br> 
 <img src="/images/github_example.ipynb"/>
 <br><br>
