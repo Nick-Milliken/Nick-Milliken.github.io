@@ -20,7 +20,8 @@ Problem: Working on nested select statements to derive how many 'Alpha Cognac' o
 Findings: Working with nested select statements is a great way to sub-query. We found which customers were buying more than the average amount of 'Alpha Cognac'. 
 <br><br>
 Decisions: Profile the customers who are buying more than average amounts of 'Alpha Cognac' and see if there are correlations to season or holiday and if there are any factors we can replicate to increase 'Alpha Cognac' sales in other regions. 
----
+<br><br>
+<br><br>
 [Python Example](Predictive_work_project_regression.ipynb)
 <br><br> 
 Problem: Are there features from the data that can accurately predict if the value of a house will go up or down? 
