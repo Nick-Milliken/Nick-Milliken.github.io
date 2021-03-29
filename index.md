@@ -6,6 +6,7 @@ ________________________________________________________________________________
 <br><br>
 A list of Tableau projects from coursework and group projects. Trying out different chart types and filters to see what makes a good visualization or not. Learning from my mistakes and successful attempts. <br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
+<br><br>
 <a href="Art_of_Life_Create Database.pdf">SQL_PLAIN_TEXT</a>
 <br><br>
 <a href="Art_of_Life_Create Database.sql">SQL_FILE_DOWNLOAD</a>
