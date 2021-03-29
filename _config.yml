@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   "Using empirical data to help people find their best path forward."
   <br><br>
-  <a print("Nick Milliken - Resume Black Background.pdf")>View My Resume</a>
+  <a "Nick Milliken - Resume Black Background.pdf">View My Resume</a>
   <br><br>
   <a print("https://www.linkedin.com/in/nick-milliken")>View My LinkedIn Profile</a> 
   <br><br>
