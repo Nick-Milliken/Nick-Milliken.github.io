@@ -20,6 +20,13 @@ Findings: Building the database was successful, there were some issues with the 
 <br><br>
 Decisions: The Art of Life ultimately decided to continue to use their current software and use our database on a case by case, as needed instance.  
 <br><br>
+<a href="Python_ML_Example.pdf">Python ML Example PDF</a>
+Problem:  Building a model that will help predict the expected time of products to the wharehouse as early or late. The goal is to find ways to reduce the early/late costs of holding onto inventory. 
+<br><br>
+Findings: I was able to use features that produced results from the ML model to identify manufacturers that had the best on-time delivery rate and the ones that had the worst on-time delivery rate. There will be no downloadable copy of this code, only a pdf version for examination. 
+<br><br>
+Results: Recommendations were given on what features and companies should be further evaluated to identify how to replicate qualities from the best manufacturer delivery rates in the worst manufacturer delivery rates and vice versa. Our preliminary results estimated an average savings of $230/order/manufacturer were possible.
+<br><br>
 <br><br>
 <a href="git_hub_regression_example.pdf">Python_Home_Sales_Example</a> 
 <br><br> 
