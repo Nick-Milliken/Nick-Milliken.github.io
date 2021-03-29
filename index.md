@@ -40,7 +40,6 @@ ________________________________________________________________________________
 - [Company Achievement]<img src="images/legends of boco bw.jpg"/>
 <br><br>
 - "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
----
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
