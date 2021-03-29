@@ -13,10 +13,10 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 Problem: Building a Database for The Art of Life Academy LLC to better account for churn rate and student management in supplement to the current software in use. 
 Findings: Building the database was successful, there were some issues with the ER diagram and connecting everything to allow for effective and fruitful queries. We were able to solve this in a team meeting and mapping everything out in real time with the whole team. Some variable names and connections had to be adjusted/fixed doing this during COVID made meetings difficult but we were able to overcome with Slack and Zoom.  
 Decisions: The Art of Life ultimately decided to continue to use their current software and use our database on a case by case, as needed instance.  
-<br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br>
 <a href="Python_ML_Example.pdf">Python ML Example PDF</a>
+<br><br>
 Problem:  Building a model that will help predict the expected time of products to the wharehouse as early or late. The goal is to find ways to reduce the early/late costs of holding onto inventory. 
 <br><br>
 Findings: I was able to use features that produced results from the ML model to identify manufacturers that had the best on-time delivery rate and the ones that had the worst on-time delivery rate. 
