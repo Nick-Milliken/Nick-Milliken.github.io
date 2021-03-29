@@ -12,9 +12,9 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 
 ---
 <br><br>
-<a href="sql final project.pdf">SQL_PLAIN_TEXT</a>
+<a href="Art_of_Life_Create Database.pdf">SQL_PLAIN_TEXT</a>
 <br><br>
-<a href="Select statements for sql final project.sql">SQL_FILE_DOWNLOAD</a>
+<a href="Art_of_Life_Create Database.sql">SQL_FILE_DOWNLOAD</a>
 <br><br>
 Problem: Building a Database for The Art of Life Academy LLC to better account for churn rate and student management in supplement to the current software in use. 
 <br><br>
