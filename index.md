@@ -22,7 +22,7 @@ Findings: Working with nested select statements is a great way to sub-query. We 
 Decisions: Profile the customers who are buying more than average amounts of 'Alpha Cognac' and see if there are correlations to season or holiday and if there are any factors we can replicate to increase 'Alpha Cognac' sales in other regions. 
 <br><br>
 <br><br>
-<a href="Predictive_work_project_regression.pdf">Python_Home_Sales_Example</a> 
+<a href="Predictive_work_project_regression.ipynb">Python_Home_Sales_Example</a> 
 <br><br> 
 Problem: Are there features from the data that can accurately predict if the value of a house will go up or down? 
 Model: We were able to create a model that utilized the different features from the data to identify a change in valuation. 
