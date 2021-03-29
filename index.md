@@ -12,8 +12,9 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 
 ---
 <br><br>
-<a href="sql final project.pdf">SQL_PDF</a>
-<a href="Select statements for sql final project.sql">SQL_Example</a>
+<a href="sql final project.pdf">SQL_PLAIN_TEXT</a>
+<br><br>
+<a href="Select statements for sql final project.sql">SQL_FILE_DOWNLOAD</a>
 <br><br>
 Problem: Working on nested select statements to derive how many 'Alpha Cognac' orders are above average.
 <br><br>
