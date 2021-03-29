@@ -37,7 +37,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Personal Projects
 
-- [Company Achievement]<img src="images/legends of boco bw.jpg"/>
+<img src="images/legends of boco bw.jpg"/>
 <br><br>
 - "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
 
