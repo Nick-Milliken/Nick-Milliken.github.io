@@ -14,6 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://vqmartialarts.com">View the VQ website</a>
 
 theme: jekyll-theme-minimal
+----
 
-<br><br> 
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
