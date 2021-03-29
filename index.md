@@ -35,9 +35,6 @@ Result: Most of the features did not return significant results and were unrelia
 - [Company Achievement]<img src="images/legends of boco bw.jpg"/>
 <br><br>
 - "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
-<br><br>
-- [Vision Quest Martial Arst](https://vqmartialarts.com/)
-
 
 ---
 
