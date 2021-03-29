@@ -13,7 +13,7 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 ---
 [SQL Example]
 <br><br>
-<img src="/images/SQL_for_github.jpg?raw=true"/>
+<a href="Select statements for sql final project.sql">SQL_Example</a>
 <br><br>
 Problem: Working on nested select statements to derive how many 'Alpha Cognac' orders are above average.
 <br><br>
