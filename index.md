@@ -8,8 +8,6 @@
 <br><br>
 A list of Tableau projects from coursework and group projects. Trying out different chart types and filters to see what makes a good visualization or not. Learning from my mistakes and successful attempts. 
 <br><br>
-
-
 ---
 <br><br>
 <a href="Art_of_Life_Create Database.pdf">SQL_PLAIN_TEXT</a>
@@ -18,7 +16,7 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 <br><br>
 Problem: Building a Database for The Art of Life Academy LLC to better account for churn rate and student management in supplement to the current software in use. 
 <br><br>
-Findings: Building the database was successful, there were some issues with the ER diagram and connecting everything to allow for effective and fruitful queries. We were able to solve this in a team meeting and mapping everything out in real time with the whole team. COVID made meetings difficult but we were able to overcome with Slack and Zoom.  
+Findings: Building the database was successful, there were some issues with the ER diagram and connecting everything to allow for effective and fruitful queries. We were able to solve this in a team meeting and mapping everything out in real time with the whole team. Some variable names and connections had to be adjusted/fixed doing this during COVID made meetings difficult but we were able to overcome with Slack and Zoom.  
 <br><br>
 Decisions: The Art of Life ultimately decided to continue to use their current software and use our database on a case by case, as needed instance.  
 <br><br>
