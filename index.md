@@ -28,18 +28,12 @@ Model: We were able to create a model that utilized the different features from 
 Result: Most of the features did not return significant results and were unreliable. There were a couple of features that produced well enough to prove proof of concept but further work needs to be done. An ML model with training and test data would be preferred. Please utilize the link to look at the code. 
 <br><br>
 ---
-
 ### Personal Projects
 
 - [Company Achievement]<img src="images/legends of boco bw.jpg"/>
 <br><br>
 - "Winner of Best of the West from The 'Yellow Scene Magazine' more than 10 times."
-
 ---
-
-
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
