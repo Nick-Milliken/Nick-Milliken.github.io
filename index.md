@@ -16,11 +16,11 @@ A list of Tableau projects from coursework and group projects. Trying out differ
 <br><br>
 <a href="Select statements for sql final project.sql">SQL_FILE_DOWNLOAD</a>
 <br><br>
-Problem: Working on nested select statements to derive how many 'Alpha Cognac' orders are above average.
+Problem: Building a Database for The Art of Life Academy LLC to better account for churn rate and student management in supplement to the current software in use. 
 <br><br>
-Findings: Working with nested select statements is a great way to sub-query. We found which customers were buying more than the average amount of 'Alpha Cognac'. 
+Findings: Building the database was successful, there were some issues with the ER diagram and connecting everything to allow for effective and fruitful queries. We were able to solve this in a team meeting and mapping everything out in real time with the whole team. COVID made meetings difficult but we were able to overcome with Slack and Zoom.  
 <br><br>
-Decisions: Profile the customers who are buying more than average amounts of 'Alpha Cognac' and see if there are correlations to season or holiday and if there are any factors we can replicate to increase 'Alpha Cognac' sales in other regions. 
+Decisions: The Art of Life ultimately decided to continue to use their current software and use our database on a case by case, as needed instance.  
 <br><br>
 <br><br>
 <a href="git_hub_regression_example.pdf">Python_Home_Sales_Example</a> 
