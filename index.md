@@ -34,6 +34,15 @@ ________________________________________________________________________________
 
 - Result: Most of the features did not return significant results and were unreliable. There were a couple of features that produced well enough to prove proof of concept but further work needs to be done. An ML model with training and test data would be preferred. Please utilize the link to look at the code. 
 <br><br>
+
+_________________________________________________________________________________________________________________________________________________________________________________
+<br><br>
+<a href="Legal_Workflow.xlsm">Excel Freelance Project</a>
+<br><br>
+- Problem: Client wanted a Master Table or Dashboard to track employee tasks. Furthermore, the client wanted a sheet for each employee that would be populated with their specific tasks as well as a table of tasks completed within the last week. 
+
+- Solution: Created a Master Table with all employee's and tasks. There was no data given so five dummies were created. A sheet for each of the five dummies was created with the requested information. Macros were utilized to filter data on date and auto-updates enabled. As a back up short cut keys were created to update employee sheets from the Master Table. 
+<br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Personal Projects
 
