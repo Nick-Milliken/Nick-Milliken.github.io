@@ -37,11 +37,13 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br>
-<a href="Legal_Workflow.xlsm">Excel Freelance Project</a>
+<a href="images/Screenshot (33).png">Excel Freelance Project</a>
 <br><br>
 - Problem: Client wanted a Master Table or Dashboard to track employee tasks. Furthermore, the client wanted a sheet for each employee that would be populated with their specific tasks as well as a table of tasks completed within the last week. 
 
-- Solution: Created a Master Table with all employee's and tasks. There was no data given so five dummies were created. A sheet for each of the five dummies was created with the requested information. Macros were utilized to filter data on date and auto-updates enabled. As a back up short cut keys were created to update employee sheets from the Master Table. 
+- Solution: Created a Master Table with all employee's and tasks. There was no data given so five dummies were created. A sheet for each of the five dummies was created with the requested information. Macros were utilized to filter data on date and auto-updates enabled. As a back up short cut keys were created to update employee sheets from the Master Table. I also included a tutorial on how to create a new employee tab should they need more in the future. 
+<br><br>
+<a href="Legal_Workflow.xlsm">You can find a copy of the file here.</a>  
 <br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Personal Projects
